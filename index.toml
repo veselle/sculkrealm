@@ -13,6 +13,10 @@ file = "config/netherportalspread.json5"
 hash = "b248a73081888394e5718fbdf0ffb7854898964a076071c9691cf1a0f40f6c02"
 
 [[files]]
+file = "config/sculk_horde_origins-common.toml"
+hash = "ba85f97e7f3b03739b5c27942d15ed311d41a3899e5d75c1075be921466bf2c8"
+
+[[files]]
 file = "config/sculksickness/common.json5"
 hash = "20d85d19190bea59a3f54ef10e7ee8b4fc3849bea3b120b4c04ce651e8f3227d"
 

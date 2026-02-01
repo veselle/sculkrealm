@@ -1,0 +1,18 @@
+
+["Sculk Horde: Origins Config"]
+	#Look for these origins in the"origins-common.toml" config file to add or remove powers. There, you can completely customize these origins to your liking. Warning - Things can break.
+	#
+	#Should the Infester origin be visible when picking an origin? (Default = true)
+	#When set to false, this origin can only be chosen through commands.
+	infester_choosable = false
+	#Where should the Infester spawn? (Default = 1)
+	#If 1 (Ancient City), it may take more time for the infester to awaken the Horde. If 2 (Sculk Tomb), the Horde will be awakened immediately.
+	#0 = Default spawn | 1 = Ancient City (minecraft:ancient_city) | 2 = Sculk Tomb (sculkhorde:sculk_tomb)
+	infester_spawn = 2
+	#Should the Pure One origin be visible when picking an origin? (Default = true)
+	#When set to false, this origin can only be chosen through commands.
+	pure_one_choosable = false
+	#Should amethyst shards be craftable? (Default = true)
+	#This recipe makes progression easier for the Pure One, allowing an amethyst block to be crafted into two amethyst shards.
+	amethyst_shard_craftable = true
+
