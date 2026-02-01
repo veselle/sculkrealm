@@ -299,6 +299,11 @@ hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
+file = "mods/cosmetics-equipment.pw.toml"
+hash = "bf91f9eb83582a9f6cbd5e1406c2446f75ff3e1a01bbda851b56f147c28fa9b6"
+metafile = true
+
+[[files]]
 file = "mods/create-guardian-beam-defense.pw.toml"
 hash = "ebbeae6d65c714b0bcd25b5f600ae445d16a604b15347b42e2bd3960b208cbf5"
 metafile = true
