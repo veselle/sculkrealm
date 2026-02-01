@@ -1,0 +1,13 @@
+name = "Sculk Horde: Origins"
+filename = "sculk_horde_origins-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ae493b7b159af8fd40b4702328ffb74446c415a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6816086
+project-id = 1101774

@@ -1,0 +1,13 @@
+name = "Sculk Horde"
+filename = "sculkhorde-1.20.1-0.11.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tBbdvEJc/versions/m2bfpvIC/sculkhorde-1.20.1-0.11.1.jar"
+hash-format = "sha512"
+hash = "e00055073e8cbc2fae58000ca63850b1753d96455c65b36797e71a9db6c2cb18d04f0171fb69b329d5a10fd5eea12e5054778adae2e327d60f5e7481f10a39ba"
+
+[update]
+[update.modrinth]
+mod-id = "tBbdvEJc"
+version = "m2bfpvIC"

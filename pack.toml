@@ -1,0 +1,13 @@
+name = "Innerrealm SW"
+author = "veselle"
+version = "666.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bac8ce7579fd80afb03abf0e23f9d14ce93693698b51f553ad500c74d7104524"
+
+[versions]
+forge = "47.4.16"
+minecraft = "1.20.1"

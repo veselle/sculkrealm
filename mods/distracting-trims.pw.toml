@@ -1,0 +1,13 @@
+name = "Distracting Trims"
+filename = "DistractingTrims-Forge-1.20.1-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xQU6E1ee/versions/5OhBU5F4/DistractingTrims-Forge-1.20.1-2.0.4.jar"
+hash-format = "sha512"
+hash = "6315e4a02db8569c06dad0e1e1768ec410ef82376d6f95090a7e46ce217afb4e4ba1faa649a5c4ed5c7f460877aa187f84f3a0dd2e4cad0819454923b343dbd5"
+
+[update]
+[update.modrinth]
+mod-id = "xQU6E1ee"
+version = "5OhBU5F4"

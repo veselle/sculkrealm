@@ -1,0 +1,13 @@
+name = "TrimsEffects"
+filename = "trimeffects-forge-mc1.20-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BL7ADJ7w/versions/X3q7rwte/trimeffects-forge-mc1.20-2.1.2.jar"
+hash-format = "sha512"
+hash = "1d3b793419e670ce07bd3ac65aedaca20536d45849c1ee3f87a70ead64701eeb278d5f81829b8455c69724935a218314b8919c3123bbb3efbd5560191c6fd3cf"
+
+[update]
+[update.modrinth]
+mod-id = "BL7ADJ7w"
+version = "X3q7rwte"

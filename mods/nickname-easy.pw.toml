@@ -1,0 +1,13 @@
+name = "Nickname Easy"
+filename = "nickname_easy-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1ayMQQUx/versions/j9KWx2Zc/nickname_easy-1.0.jar"
+hash-format = "sha512"
+hash = "7ae916aff47da313d545147104598fadcf00c45668e7a47a56697ebf59a72e0ddfd401bef6b6001614e24b58e0bf60529c3df690db2cb432ccf568ec7ae5db74"
+
+[update]
+[update.modrinth]
+mod-id = "1ayMQQUx"
+version = "j9KWx2Zc"

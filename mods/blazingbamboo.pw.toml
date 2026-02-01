@@ -1,0 +1,13 @@
+name = "Blazing Bamboo"
+filename = "BlazingBamboo-Forge-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qeChSM8z/versions/5IE23JrO/BlazingBamboo-Forge-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "0e9d7b3ae110319d4d5cf22077a69522a5a610e1552a67c6400828838b2114aa1bc5c3ace1dbf55a18615ec6caf25f464a49becdb96fa388fb42a80a87e144d2"
+
+[update]
+[update.modrinth]
+mod-id = "qeChSM8z"
+version = "5IE23JrO"

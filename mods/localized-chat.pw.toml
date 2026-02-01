@@ -1,0 +1,13 @@
+name = "Localized Chat"
+filename = "LocalizedChat-forge-1.20.1-5.1.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/c8zyAYHe/versions/LfjtlQdo/LocalizedChat-forge-1.20.1-5.1.3.jar"
+hash-format = "sha512"
+hash = "2bb5161290127fd25279aa5d3f44a434d976466a6679602ae6e42f89f678e33419d9df4a70b54cae46ef0867ff9078f8762fd0acb1261d602aa2f40bc46fe36d"
+
+[update]
+[update.modrinth]
+mod-id = "c8zyAYHe"
+version = "LfjtlQdo"

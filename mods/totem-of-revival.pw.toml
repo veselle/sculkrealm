@@ -1,0 +1,13 @@
+name = "Totem of Revival"
+filename = "totemofrevival-1.0.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fQDqU6Xq/versions/p4JqfjKL/totemofrevival-1.0.0-forge.jar"
+hash-format = "sha512"
+hash = "e7a73e72b45b4f0511cf424885c4607381057b942941d79bf9db01fa1ce6b382776c33182a9aa3c8be0c35ee28ce2e479b54adcf45668781df6efff916a758bb"
+
+[update]
+[update.modrinth]
+mod-id = "fQDqU6Xq"
+version = "p4JqfjKL"
